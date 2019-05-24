@@ -7,3 +7,4 @@ lista = ["item1", "item2",3, 3.14]
 tupla = (1,2,3, "Python")
 
 print(dicionario)
+
