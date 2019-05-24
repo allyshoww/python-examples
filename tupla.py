@@ -4,8 +4,10 @@
 
 lista = ['a','b','c','d']
 
+# Mostra a posição 0 da lista [0,1,2,3]
 lista[0]
 
+# Mostra a lista toda
 lista[:]
 
 lista.count('a')
@@ -13,3 +15,5 @@ lista.count('a')
 # Lista todas as possibilidades do que fazer com tupla
 dir(lista)
 
+#Converter lista em tupla
+lista = tuple(lista)
