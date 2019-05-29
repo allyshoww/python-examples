@@ -2,7 +2,7 @@
 
 # Dicionario de times e selecionando o valor apenas da chave 'brasil'
 times = {'brasil':'palmeiras', 'inglaterra':'liverpool', 'italia':'milan'}
-times['brasil]
+times['brasil']
 
 # adicionando um valor em um dicionario
 times['england']= 'tottenham'
@@ -11,7 +11,7 @@ times['england']= 'tottenham'
 times.get('italia')
 
 # Lista todas as keys de um dicionario
-times.keys()]
+times.keys()
 
 # Lista todos os valores de um dicionario
 times.values()
