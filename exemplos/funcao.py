@@ -16,6 +16,9 @@ python()
 
 # Funçao que printa um nome digitado
 
+# Ao se criar uma função, obrigatoriamente a função espera algum parametro. parametro é o valor que será substituido e que está dentro do parenteses na...
+# ...primeira linha
+
 
 def boa_vindas(nome):
     print("Seja bem vindo,{}".format(nome))
